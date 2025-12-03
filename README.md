@@ -30,6 +30,7 @@ Bio-inspired PDMS + silicon-gauge whisker sensor for underwater flow sensing und
 A deep RL controller that enables a nonholonomic car-like robot to escape narrow cul-de-sacs using forward–reverse maneuver sequencing.
 ## 🔗 Related Repositories
 - [cisDRL-robotnav](https://github.com/gitagitty/cisDRL-robotnav)
+
 **📄 Paper:**  
 [Nonholonomic Narrow Dead-End Escape with Deep RL](https://arxiv.org/abs/2511.22338)
 
@@ -42,6 +43,7 @@ A deep RL controller that enables a nonholonomic car-like robot to escape narrow
 Training a 24-DoF Shadow Dexterous Hand using PPO for grasping and in-hand manipulation.
 ## 🔗 Related Repositories
 - [Gym-Robo](https://github.com/denghan1106/gym-robo)
+
 ### Shadow Hand PPO Demo
 <img src="hand1.gif" width="300">
 
