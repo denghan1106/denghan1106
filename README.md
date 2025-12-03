@@ -11,23 +11,41 @@ reinforcement learning with real-world robotic systems and bio-inspired sensors.
 - Bio-inspired underwater whisker sensors  
 - Embodied AI / humanoid robotics
 
----
-
-### 📄 Publications
-
-#### **1. A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity**  
-Zheyi Hang, **Denghan Xiong**, Pengbo Xie, Huan Hu  
-**arXiv:2511.22353**  
-[📄 PDF](https://arxiv.org/pdf/2511.22353)  
-A flexible PDMS-based whisker sensor using high-gauge-factor silicon strain gauges for underwater flow sensing in turbid environments; demonstrates high sensitivity, stable packaging, and clear spatial response patterns.
-
-#### **2. Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning**  
-**Denghan Xiong**, Yanzhe Zhao, Yutong Chen, Zichun Wang  
-**arXiv:2511.22338**  
-[📄 PDF](https://arxiv.org/pdf/2511.22338)  
-A deep RL framework enabling car-like robots to escape narrow cul-de-sacs under nonholonomic and Ackermann constraints through tightly sequenced forward/reverse maneuvers.
+## 🚀 Projects
 
 ---
+
+### 1. Bio-Inspired Underwater Whisker Sensor
+Bio-inspired PDMS + silicon-gauge whisker sensor for underwater flow sensing under turbidity and darkness.
+
+**📄 Paper:**  
+[A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity](https://arxiv.org/abs/2511.22353)
+
+**🖼️ Image:**  
+<img src="whisker.png" width="450">
+
+---
+
+### 2. Dead-End Escape with Deep Reinforcement Learning
+A deep RL controller that enables a nonholonomic car-like robot to escape narrow cul-de-sacs using forward–reverse maneuver sequencing.
+
+**📄 Paper:**  
+[Nonholonomic Narrow Dead-End Escape with Deep RL](https://arxiv.org/abs/2511.22338)
+
+**🎥 Video:**  
+You can embed the car.MOV video like this (GitHub doesn't play MOV inline, but it gives a nice clickable preview):
+
+[▶️ Car Escape Demo](car.MOV)
+
+---
+
+### 3. Dexterous Manipulation with Shadow Hand (PPO)
+Training a 24-DoF Shadow Dexterous Hand using PPO for grasping and in-hand manipulation.
+
+**🎥 Video:**  
+[▶️ Shadow Hand PPO Demo](hand.mov)
+
+
 
 ### 📫 Contact
 - Email: denghan2@illinois.edu / denghan.22@intl.zju.edu.cn  
