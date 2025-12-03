@@ -32,20 +32,16 @@ A deep RL controller that enables a nonholonomic car-like robot to escape narrow
 **📄 Paper:**  
 [Nonholonomic Narrow Dead-End Escape with Deep RL](https://arxiv.org/abs/2511.22338)
 
-**🎥 Video:**  
-You can embed the car.MOV video like this (GitHub doesn't play MOV inline, but it gives a nice clickable preview):
-
-[▶️ Car Escape Demo](car.MOV)
+### Dead-End Escape Demo
+<img src="car.gif" width="300">
 
 ---
 
 ### 3. Dexterous Manipulation with Shadow Hand (PPO)
 Training a 24-DoF Shadow Dexterous Hand using PPO for grasping and in-hand manipulation.
 
-**🎥 Video:**  
-[▶️ Shadow Hand PPO Demo](hand.mov)
-
-
+### Shadow Hand PPO Demo
+<img src="hand.gif" width="300">
 
 ### 📫 Contact
 - Email: denghan2@illinois.edu / denghan.22@intl.zju.edu.cn  
