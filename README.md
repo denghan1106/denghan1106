@@ -19,7 +19,7 @@ reinforcement learning with real-world robotic systems and bio-inspired sensors.
 Bio-inspired PDMS + silicon-gauge whisker sensor for underwater flow sensing under turbidity and darkness.
 
 **📄 Paper:**  
-[A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity](https://arxiv.org/abs/2511.22353)
+[A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity](https://doi.org/10.1109/ASIM67379.2025.11512830)
 
 **🖼️ Image:**  
 <img src="whisker.png" width="450">
@@ -32,7 +32,7 @@ A deep RL controller that enables a nonholonomic car-like robot to escape narrow
 - [cisDRL-robotnav](https://github.com/gitagitty/cisDRL-robotnav)
 
 **📄 Paper:**  
-[Nonholonomic Narrow Dead-End Escape with Deep RL](https://arxiv.org/abs/2511.22338)
+[Nonholonomic Narrow Dead-End Escape with Deep RL](https://doi.org/10.1145/3788149.3788204)
 
 ### Dead-End Escape Demo
 <img src="car1.gif" width="300">
