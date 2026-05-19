@@ -18,6 +18,9 @@ reinforcement learning with real-world robotic systems and bio-inspired sensors.
 ### 1. Bio-Inspired Underwater Whisker Sensor
 Bio-inspired PDMS + silicon-gauge whisker sensor for underwater flow sensing under turbidity and darkness.
 
+## 🔗 Related Repositories
+- [mlp-final-paper-code](https://github.com/denghan1106/mlp-final-paper-code)
+
 **📄 Paper:**  
 [A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity](https://doi.org/10.1109/ASIM67379.2025.11512830)
 
