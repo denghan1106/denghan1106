@@ -1,6 +1,6 @@
 # Hi, I'm Denghan Xiong 👋
 
-I'm an undergraduate student in Electrical Engineering at the ZJU-UIUC Institute.  
+I'm an graduate student in Electrical and Computer Engineering at the UIUC.  
 My work focuses on **robotics, control, and embodied AI**, especially integrating  
 reinforcement learning with real-world robotic systems and bio-inspired sensors.
 
@@ -50,7 +50,25 @@ Training a 24-DoF Shadow Dexterous Hand using PPO for grasping and in-hand manip
 ### Shadow Hand PPO Demo
 <img src="hand1.gif" width="300">
 
+### 4. XLeRobot: Mobile Manipulation with LeRobot
+
+A real-world robotics project built on LeRobot/XLeRobot, integrating
+custom hardware interfaces, ROS 2 navigation, vision-guided approach,
+and local agent orchestration.
+
+**Code:** [xlerobot_lerobot](https://github.com/denghan1106/xlerobot_lerobot)
+
+**Towel Folding · 3× Speed**
+
+<img src="assets/towel-folding-3x.gif" width="360" alt="Towel folding demo">
+
+**Full Workflow · 10× Speed · Two Viewpoints**
+
+<img src="assets/full-workflow-view1-10x.gif" width="256" alt="Full workflow view 1"> <img src="assets/full-workflow-view2-10x.gif" width="320" alt="Full workflow view 2">
+
+---
+
 ### 📫 Contact
-- Email: denghan2@illinois.edu / denghan.22@intl.zju.edu.cn  
+- Email: denghan2@illinois.edu
 
 Thanks for visiting my page!  
