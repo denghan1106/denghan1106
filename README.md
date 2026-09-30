@@ -58,13 +58,24 @@ and local agent orchestration.
 
 **Code:** [xlerobot_lerobot](https://github.com/denghan1106/xlerobot_lerobot)
 
-**Towel Folding · 3× Speed**
-
-<img src="towel-folding.gif" width="360" alt="Towel folding demo">
-
-**Full Workflow · 10× Speed · Two Viewpoints**
-
-<img src="full-workflow-view1.gif" width="256" alt="Full workflow view 1"> <img src="full-workflow-view2.gif" width="320" alt="Full workflow view 2">
+<table>
+  <tr>
+    <th width="33%">Towel Folding</th>
+    <th width="33%">Full Workflow · View 1</th>
+    <th width="33%">Full Workflow · View 2</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="towel-folding.gif" width="260" alt="Towel folding">
+    </td>
+    <td align="center" valign="top">
+      <img src="full-workflow-view1.gif" width="260" alt="Full workflow view 1">
+    </td>
+    <td align="center" valign="top">
+      <img src="full-workflow-view2.gif" width="260" alt="Full workflow view 2">
+    </td>
+  </tr>
+</table>
 
 ---
 
