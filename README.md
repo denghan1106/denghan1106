@@ -60,19 +60,19 @@ and local agent orchestration.
 
 <table>
   <tr>
-    <th width="33%">Towel Folding</th>
-    <th width="33%">Full Workflow · View 1</th>
-    <th width="33%">Full Workflow · View 2</th>
+    <th>Towel Folding</th>
+    <th>Full Workflow · View 1</th>
+    <th>Full Workflow · View 2</th>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="towel-folding.gif" width="260" alt="Towel folding">
+      <img src="towel-folding.gif" height="220" alt="Towel folding">
     </td>
     <td align="center" valign="top">
-      <img src="full-workflow-view1.gif" width="260" alt="Full workflow view 1">
+      <img src="full-workflow-view1.gif" height="220" alt="Full workflow view 1">
     </td>
     <td align="center" valign="top">
-      <img src="full-workflow-view2.gif" width="260" alt="Full workflow view 2">
+      <img src="full-workflow-view2.gif" height="220" alt="Full workflow view 2">
     </td>
   </tr>
 </table>
