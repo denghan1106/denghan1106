@@ -60,11 +60,11 @@ and local agent orchestration.
 
 **Towel Folding · 3× Speed**
 
-<img src="assets/towel-folding.gif" width="360" alt="Towel folding demo">
+<img src="towel-folding.gif" width="360" alt="Towel folding demo">
 
 **Full Workflow · 10× Speed · Two Viewpoints**
 
-<img src="assets/full-workflow-view1.gif" width="256" alt="Full workflow view 1"> <img src="assets/full-workflow-view2.gif" width="320" alt="Full workflow view 2">
+<img src="full-workflow-view1.gif" width="256" alt="Full workflow view 1"> <img src="full-workflow-view2.gif" width="320" alt="Full workflow view 2">
 
 ---
 
