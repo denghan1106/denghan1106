@@ -66,13 +66,13 @@ and local agent orchestration.
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="towel-folding.gif" height="250" alt="Towel folding">
+      <img src="towel-folding.gif" height="300" alt="Towel folding">
     </td>
     <td align="center" valign="top">
-      <img src="full-workflow-view1.gif" height="250" alt="Full workflow view 1">
+      <img src="full-workflow-view1.gif" height="300" alt="Full workflow view 1">
     </td>
     <td align="center" valign="top">
-      <img src="full-workflow-view2.gif" height="250" alt="Full workflow view 2">
+      <img src="full-workflow-view2.gif" height="300" alt="Full workflow view 2">
     </td>
   </tr>
 </table>
