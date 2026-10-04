@@ -52,9 +52,7 @@ Training a 24-DoF Shadow Dexterous Hand using PPO for grasping and in-hand manip
 
 ### 4. XLeRobot: Mobile Manipulation with LeRobot
 
-A real-world robotics project built on LeRobot/XLeRobot, integrating
-custom hardware interfaces, ROS 2 navigation, vision-guided approach,
-and local agent orchestration.
+Developed a real-world mobile manipulation system integrating ROS 2 navigation, dual-arm manipulation, multi-camera perception, SmolVLA, and Qwen-based task planning.
 
 **Code:** [xlerobot_lerobot](https://github.com/denghan1106/xlerobot_lerobot)
 
